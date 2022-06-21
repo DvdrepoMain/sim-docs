@@ -3,7 +3,7 @@ This project is just an example of how to use [Obsidian.Md](https://obsidian.md/
 
 > [!WARNING] Github Pages Limitation
 > Github free account only allows public repos to be hosted on Github Pages
-> ![[Pasted image 20220621103823.png]]
+![Pasted image 20220621103823.png](Pasted image 20220621103823.png)
 
 
 
